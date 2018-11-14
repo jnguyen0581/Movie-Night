@@ -4,33 +4,15 @@ html {
 }
 
 body {
-    /*padding-top: 3.5rem;*/
     background: #F5F5F5;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 100px;
-    /*margin-left: 45px;*/
-    /*margin-right: 45px;*/
-    
   }
+
   .starter-template {
     padding: 3rem 1.5rem;
     text-align: center;
   }
-
-  /*.col-md-4, 
-  .col-md-3, 
-  .col-md-8, 
-  .col-md-9 {
-      border: solid 1px lightblue
-  }*/
-
-
-/* unnecessary
-nav {
- float: right;
- 
-}*/
-
 
 .jumbotron {
     background-image: url("../images/maxresdefault.jpg");
@@ -45,16 +27,6 @@ nav {
     text-align: center;
    
 }
-  
-/* .col-md-6 {
-    border: solid 5px grey
-} */
-
-/*.col-md-2
-{
-    border: solid 5px black
-}*/
-
 
 #rotating-item-wrapper {
     position: relative;
@@ -113,7 +85,7 @@ p
 }
 
 .upvote:hover, .downvote:hover {
-    background: gold;
+    background: lightskyblue;
 }
     
 .poster-img {
@@ -171,11 +143,6 @@ p
     font-weight: bold;
     text-align: center;
 }
-
-/*ul {
-    margin-right: 80px;
-}*/
-
 
 #winner-display {
     color: #008000;

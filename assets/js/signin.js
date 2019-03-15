@@ -59,7 +59,7 @@ $(document).ready(function() {
       });
   });
 
-  //Sign Up -- to use in version 2.0
+  // Sign Up -- to use in version 2.0
   // $("#signup").on("click", function (event) {
   //   event.preventDefault();
   //   console.log("clicked sign up");

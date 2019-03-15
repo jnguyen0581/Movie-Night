@@ -5,6 +5,8 @@ CSS Crusaders Team Project 1
 Movie-Night seeks to help groups of people answer the [Netflix] age-old question: what are we going to watch tonight?
 Invite your friends to your movie event and designate how many suggestions everyone can make.  Once the event is created, users can login to suggest movies and vote on current suggestions.  You can only vote on each movie once, which means you can vote whenever someone adds additional suggestions.
 
+link: https://jnguyen0581.github.io/Movie-Night/
+
 ## Technology Used
 
 ### Guidebox API
